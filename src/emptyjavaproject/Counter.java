@@ -7,15 +7,8 @@ package emptyjavaproject;
 
 /**
  *
- * @author paul.kline
+ * @author forrest.cummings
  */
-public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Counter {
     
 }
